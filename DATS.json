@@ -515,26 +515,18 @@
       ]
     },
     {
-			"category": "downloadOptions",
-			"values": [
-				{
-					"value": "offsite"
-				}
-			]
-		},
+		"category": "downloadOptions",
+		"values": [
+		{
+				"value": "offsite"
+			}
+		]
+	},
     {
       "category": "contact",
       "values": [
         {
           "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
-        }
-      ]
-    },
-    {
-      "category": "experimentAdditionalRequirements",
-      "values": [
-        {
-          "value": ""
         }
       ]
     }
